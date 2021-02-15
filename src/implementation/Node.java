@@ -3,7 +3,7 @@ package implementation;
 public class Node {
     //store element of sequence
     private int data;
-    //refer to next n ode of sequence
+    //refer to next node of sequence
     private Node next;
     //constructor, create a node with given data
     public Node(int data){
